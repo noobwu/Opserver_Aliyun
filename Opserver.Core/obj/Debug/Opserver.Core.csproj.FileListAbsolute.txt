@@ -1,0 +1,17 @@
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\StackExchange.Opserver.Core.dll.config
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\StackExchange.Opserver.Core.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\StackExchange.Opserver.Core.pdb
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\Dapper.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\Jil.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\Jil.pdb
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\MiniProfiler.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\MiniProfiler.pdb
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\Newtonsoft.Json.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\Sigil.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\StackExchange.Exceptional.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\StackExchange.Redis.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\bin\Debug\UnconstrainedMelody.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\obj\Debug\Opserver.Core.csprojResolveAssemblyReference.cache
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\obj\Debug\Opserver.Core.csproj.CoreCompileInputs.cache
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\obj\Debug\StackExchange.Opserver.Core.dll
+G:\Projects\NET\Framework\StackExchange\Opserver\Opserver.Core\obj\Debug\StackExchange.Opserver.Core.pdb

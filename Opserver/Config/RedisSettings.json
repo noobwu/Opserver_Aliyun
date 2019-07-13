@@ -1,0 +1,38 @@
+﻿/* Configuration for the Redis dashboard */
+{
+  /* If a server doesn't specify any instances, then these will be used as a fallback.
+     For most simple setups, this is a single :6379 instance */
+  "defaults": {
+    "instances": [
+      {
+        "name": "localhost", // Name to use in the UI
+        "port": 6379 // Port the instance runs on
+      }
+    ]
+  },
+  /* Individually specified servers (DNS entries or IPs)
+     Each of these may specify their own instances. 
+     If they don't, each will inherit the instances configured in allServers above. */
+  "Servers": [
+    // Server specifying it's own instance list, NOT inheriting from allServers above
+	{
+      "name": "localhost",
+      "instances": [
+        {
+          "name": "localhost"
+        }
+      ]
+    },
+    {
+      "name": "101.37.118.26",
+      "instances": [
+        {
+          "name": "XTTAliyunRedis",
+          "port": 16379,
+          "password": "XTTRedisDB1", // Instance has a password
+          "useSSL": "false" // Connect via SSL (not built into redis itself - default is false)
+        }
+      ]
+    }
+  ]
+}

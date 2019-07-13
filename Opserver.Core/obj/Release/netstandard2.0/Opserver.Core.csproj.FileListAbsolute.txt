@@ -1,0 +1,9 @@
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\bin\Release\netstandard2.0\StackExchange.Opserver.Core.dll.config
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\bin\Release\netstandard2.0\StackExchange.Opserver.Core.deps.json
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\bin\Release\netstandard2.0\StackExchange.Opserver.Core.dll
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\bin\Release\netstandard2.0\StackExchange.Opserver.Core.pdb
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\obj\Release\netstandard2.0\Opserver.Core.csproj.CoreCompileInputs.cache
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\obj\Release\netstandard2.0\Opserver.Core.AssemblyInfoInputs.cache
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\obj\Release\netstandard2.0\Opserver.Core.AssemblyInfo.cs
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\obj\Release\netstandard2.0\StackExchange.Opserver.Core.dll
+G:\Projects\NET\Framework\Performances\Opserver\Opserver-KeMai\Opserver.Core\obj\Release\netstandard2.0\StackExchange.Opserver.Core.pdb

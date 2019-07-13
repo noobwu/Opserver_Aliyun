@@ -1,0 +1,27 @@
+﻿/* Configuration for the SQL Server dashboard */
+{
+  // The default connection string used unless specifically provided on a node
+  // $ServerName$ gets replaces with the name property of the instance
+  "defaultConnectionString": "Data Source=$ServerName$;Initial Catalog=master;User ID=sa;Password=123456;",
+  // How often to poll all servers (defaults to 60 seconds if not configured)
+  "refreshIntervalSeconds": 30,
+  // Standalone instances
+  "instances": [
+    // An example with all the options configured
+    {
+      "name": "XTTAliyunSQLServer2012",
+      "connectionString": "Data Source=rm-bp1lv3rfnc28q0e59ho.sqlserver.rds.aliyuncs.com,3433;Initial Catalog=kmmicro_log_xtt_test;User ID=xttdbkm;Password=XTTDBKMWX-1;",
+      "refreshIntervalSeconds": 200
+    },
+    {
+      "name": "localhost",
+      "connectionString": "Data Source=localhost;User ID=sa;Password=123456;",
+      "refreshIntervalSeconds": 200
+    },
+    {
+      "name": "weixin-test.kemai.com.cn",
+      "connectionString": "Data Source=weixin-test.kemai.com.cn;User ID=km;Password=km-o2o-1;Connect Timeout=3000;",
+      "refreshIntervalSeconds": 200
+    }
+  ]
+}
